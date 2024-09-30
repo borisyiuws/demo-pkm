@@ -36476,7 +36476,7 @@ module.exports = __webpack_require__.p + "347b75be0a32df8adb82.webp";
 /******/ 	
 /******/ 	/* webpack/runtime/publicPath */
 /******/ 	(() => {
-/******/ 		__webpack_require__.p = "/scripts/";
+/******/ 		__webpack_require__.p = "./scripts/";
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/nonce */
